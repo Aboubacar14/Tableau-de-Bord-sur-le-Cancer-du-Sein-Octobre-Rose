@@ -39,3 +39,4 @@ Le tableau de bord Power BI permet au Ministère de la Santé de mieux orienter 
 ## Captures d’écran
 ![WhatsApp Image 2025-10-25 à 19 17 43_bdeab23c](https://github.com/user-attachments/assets/ff9b378d-a22e-44e3-a96a-8976777b3921)
 
+![Uploading WhatsApp Image 2025-11-05 à 14.35.04_f7b05adf.jpg…]()
